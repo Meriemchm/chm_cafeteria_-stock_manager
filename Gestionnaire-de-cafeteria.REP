@@ -1,0 +1,20 @@
+;PCSoft - Hyper File V7.00 - REP V7.00
+;Do not edit. Please use specific tools.
+ANALYSISGUID=A	;Analysis GUID
+LOCALIZATION_UTF8=656CB2EC3CC94EB383B380E61117A60F	Utilisateur	D:\Mes Projets\Gestionnaire-de-cafeteria\Exe\Utilisateur.fic
+LOCALIZATION_UTF8=ED8229DDF52C415D81AA7B244FB769BF	Produits	D:\Mes Projets\Gestionnaire-de-cafeteria\Exe\Produits.fic
+LOCALIZATION_UTF8=9FD38A53E5E642E2B6934B9C30685993	Produits	D:\Mes Projets\Gestionnaire-de-cafeteria\Exe\Produits.fic
+LOCALIZATION_UTF8=C6A4164596DA4EE8AD3428E45431343A	Client	D:\Mes Projets\Gestionnaire-de-cafeteria\Exe\Client.fic
+LOCALIZATION_UTF8=ECF261C1DE69444DAA0CE9CB7492A40C	Type_Utilisateur	D:\Mes Projets\Gestionnaire-de-cafeteria\Exe\Type_Utilisateur.fic
+LOCALIZATION_UTF8=99397A660A464DA1AA79C82623253C78	Article	D:\Mes Projets\Gestionnaire-de-cafeteria\Exe\Article.fic
+LOCALIZATION_UTF8=FFA57EE51F5A43DAA725E9B46F761B97	Categorie_Article	D:\Mes Projets\Gestionnaire-de-cafeteria\Exe\Categorie_Article.fic
+LOCALIZATION_UTF8=C64F7B7CDA5B4FDAAA6DF1C78B88D4E8	Produits_Article	D:\Mes Projets\Gestionnaire-de-cafeteria\Exe\Produits_Article.fic
+LOCALIZATION_UTF8=0CBBEC6230C743DEA17365942DEA5AB1	Table	D:\Mes Projets\Gestionnaire-de-cafeteria\Exe\Table.fic
+LOCALIZATION_UTF8=D52F93E05D0A48FEBC0A8834046B0292	Employe	D:\Mes Projets\Gestionnaire-de-cafeteria\Exe\Employe.fic
+LOCALIZATION_UTF8=A40726B9C14846F2BEE3831333902757	Type_Table	D:\Mes Projets\Gestionnaire-de-cafeteria\Exe\Type_Table.fic
+LOCALIZATION_UTF8=246B653E32694492B1CDB873AF4442C0	Type_Employe	D:\Mes Projets\Gestionnaire-de-cafeteria\Exe\Type_Employe.fic
+LOCALIZATION_UTF8=131C57DD09474914A228B63B2CADDFB4	Details_Factures	D:\Mes Projets\Gestionnaire-de-cafeteria\Exe\Details_Factures.fic
+LOCALIZATION_UTF8=701039210B5F4BD9A543D241AF105AB7	Produits_Article	D:\Mes Projets\Gestionnaire-de-cafeteria\Exe\Produits_Article.fic
+LOCALIZATION_UTF8=AC530E5982BF41DE9AD059A30D821275	Factures	D:\Mes Projets\Gestionnaire-de-cafeteria\Exe\Factures.fic
+LOCALIZATION_UTF8=FF834C3171D04B26BE5A7391F7BB4339	En_Cours	D:\Mes Projets\Gestionnaire-de-cafeteria\Exe\En_Cours.fic
+LOCALIZATION_UTF8=D07E530708F54B72937DEDC7F71337A4	En_Cours_Article	D:\Mes Projets\Gestionnaire-de-cafeteria\Exe\En_Cours_Article.fic
