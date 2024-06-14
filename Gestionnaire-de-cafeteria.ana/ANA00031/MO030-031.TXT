@@ -1,0 +1,4 @@
+//MO030-031.TXT ANA00030 TO ANA00031
+Factures		TAR	96	nouvelle taille enregistrement : 96
+Factures	IDEn_Cours	RUB+		IDEn_Cours est une nouvelle clé
+Contrainte_En_Cours_Factures		NWL	En_Cours (IDEn_Cours) et Factures (IDEn_Cours)	Nouvelle liaison entre les fichiers En_Cours (IDEn_Cours) et Factures (IDEn_Cours)

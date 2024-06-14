@@ -1,0 +1,17 @@
+//MO006-007.TXT ANA00006 TO ANA00007
+Utilisateur		TAR	136	nouvelle taille enregistrement : 136
+Utilisateur	IDType_Utilisateur	RUB+		IDType_Utilisateur est une nouvelle clé
+Employe		TAR	280	nouvelle taille enregistrement : 280
+Employe	IDType_Employe	RUB+		IDType_Employe est une nouvelle clé
+Factures		TAR	88	nouvelle taille enregistrement : 88
+Factures	IDTable	RUB+		IDTable est une nouvelle clé
+Table		TAR	88	nouvelle taille enregistrement : 88
+Table	IDType_Table	RUB+		IDType_Table est une nouvelle clé
+Produits_Article		NFI		nouveau fichier
+Ingredient		FIC-	Ingredient	Fichier supprimé Ingredient
+Contrainte_Produits_Article		NWL	Produits (IDProduits) et Produits_Article (IDProduits)	Nouvelle liaison entre les fichiers Produits (IDProduits) et Produits_Article (IDProduits)
+Contrainte_Article_Produits		NWL	Article (IDArticle) et Produits_Article (IDArticle)	Nouvelle liaison entre les fichiers Article (IDArticle) et Produits_Article (IDArticle)
+Contrainte_Type_Employe_Employe		NWL	Type_Employe (IDType_Employe) et Employe (IDType_Employe)	Nouvelle liaison entre les fichiers Type_Employe (IDType_Employe) et Employe (IDType_Employe)
+Contrainte_Type_Table_Table		NWL	Type_Table (IDType_Table) et Table (IDType_Table)	Nouvelle liaison entre les fichiers Type_Table (IDType_Table) et Table (IDType_Table)
+Contrainte_Type_Utilisateur_Utilisateur		NWL	Type_Utilisateur (IDType_Utilisateur) et Utilisateur (IDType_Utilisateur)	Nouvelle liaison entre les fichiers Type_Utilisateur (IDType_Utilisateur) et Utilisateur (IDType_Utilisateur)
+Contrainte_Factures_Table		NWL	Table (IDTable) et Factures (IDTable)	Nouvelle liaison entre les fichiers Table (IDTable) et Factures (IDTable)

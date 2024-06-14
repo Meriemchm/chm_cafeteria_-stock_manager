@@ -1,0 +1,3 @@
+//MO024-025.TXT ANA00024 TO ANA00025
+En_Cours_Article		TAR	94	nouvelle taille enregistrement : 94
+En_Cours_Article	Nom	RUB+		Nom est une nouvelle rubrique

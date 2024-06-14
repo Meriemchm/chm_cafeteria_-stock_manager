@@ -1,0 +1,3 @@
+//MO032-033.TXT ANA00032 TO ANA00033
+Factures		TAR	90	nouvelle taille enregistrement : 90
+Factures	NumeroTable	RUB+		NumeroTable est une nouvelle rubrique

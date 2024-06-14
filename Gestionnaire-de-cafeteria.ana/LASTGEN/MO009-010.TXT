@@ -1,0 +1,7 @@
+//MO009-010.TXT ANA00009 TO ANA00010
+Produits_Article		NFI		nouveau fichier
+Produits_Article		FIC-	Produits_Article	Fichier supprimé Produits_Article
+Contrainte_Article_Produits		NWL	Article (IDArticle) et Produits_Article (IDArticle)	Nouvelle liaison entre les fichiers Article (IDArticle) et Produits_Article (IDArticle)
+Contrainte_Produits_Article		NWL	Produits (IDProduits) et Produits_Article (IDProduits)	Nouvelle liaison entre les fichiers Produits (IDProduits) et Produits_Article (IDProduits)
+Contrainte_Produits_Article		DEL	Produits (IDProduits) et Produits_Article (IDProduits)	Liaison supprimée entre les fichiers Produits (IDProduits) et Produits_Article (IDProduits)
+Contrainte_Article_Produits		DEL	Article (IDArticle) et Produits_Article (IDArticle)	Liaison supprimée entre les fichiers Article (IDArticle) et Produits_Article (IDArticle)

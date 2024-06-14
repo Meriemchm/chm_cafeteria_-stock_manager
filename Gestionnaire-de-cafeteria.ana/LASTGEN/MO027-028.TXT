@@ -1,0 +1,4 @@
+//MO027-028.TXT ANA00027 TO ANA00028
+En_Cours		TAR	21	nouvelle taille enregistrement : 21
+En_Cours	NumeroTable	NNR	aide	ATTENTION : la rubrique aide a pour nouveau nom NumeroTable
+En_Cours	NumeroTable	CNW	Entier sur 4 octets$Chaîne	la rubrique NumeroTable a pour nouveau type Entier sur 4 octets

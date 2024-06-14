@@ -1,0 +1,9 @@
+//MO018-019.TXT ANA00018 TO ANA00019
+En_Cours		TAR	29	nouvelle taille enregistrement : 29
+En_Cours	IDArticle	CLEN*		la rubrique IDArticle est maintenant une clé
+En_Cours	IDArticle	CNW	Entier sur 4 octets$Chaîne	la rubrique IDArticle a pour nouveau type Entier sur 4 octets
+En_Cours	Quantite	RUB+		Quantite est une nouvelle rubrique
+En_Cours	NumeroCurrentTable	RUB+		NumeroCurrentTable est une nouvelle rubrique
+En_Cours_Article		NFI		nouveau fichier
+Contrainte_En_Cours_Article		NWL	En_Cours (IDEn_Cours) et En_Cours_Article (IDEn_Cours)	Nouvelle liaison entre les fichiers En_Cours (IDEn_Cours) et En_Cours_Article (IDEn_Cours)
+Contrainte_Article_En_Cours		NWL	Article (IDArticle) et En_Cours_Article (IDArticle)	Nouvelle liaison entre les fichiers Article (IDArticle) et En_Cours_Article (IDArticle)

@@ -1,0 +1,3 @@
+//MO013-014.TXT ANA00013 TO ANA00014
+Produits_Article		TAR	29	nouvelle taille enregistrement : 29
+Produits_Article	Quantite	RUB+		Quantite est une nouvelle rubrique

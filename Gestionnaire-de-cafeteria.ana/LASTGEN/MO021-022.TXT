@@ -1,0 +1,9 @@
+//MO021-022.TXT ANA00021 TO ANA00022
+En_Cours		TAR	17	nouvelle taille enregistrement : 17
+En_Cours	Quantite	RUB-		la rubrique Quantite est supprimée
+En_Cours	NumeroCurrentTable	RUB-		la rubrique NumeroCurrentTable est supprimée
+En_Cours	PrixCurrent	RUB-		la rubrique PrixCurrent est supprimée
+En_Cours_Article		TAR	43	nouvelle taille enregistrement : 43
+En_Cours_Article	Quantite	RUB+		Quantite est une nouvelle rubrique
+En_Cours_Article	NumeroCurrentTable	RUB+		NumeroCurrentTable est une nouvelle rubrique
+En_Cours_Article	PrixCurrent	RUB+		PrixCurrent est une nouvelle rubrique

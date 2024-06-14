@@ -1,0 +1,2 @@
+//MO012-013.TXT ANA00012 TO ANA00013
+Contrainte_Produits_Article		MCL	1,n->0,n	

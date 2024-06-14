@@ -1,0 +1,3 @@
+//MO031-032.TXT ANA00031 TO ANA00032
+Factures		TAR	86	nouvelle taille enregistrement : 86
+Factures	Remise	RUB-		la rubrique Remise est supprimée

@@ -1,0 +1,3 @@
+//MO023-024.TXT ANA00023 TO ANA00024
+En_Cours_Article		TAR	43	nouvelle taille enregistrement : 43
+En_Cours_Article	Nom	RUB-		la rubrique Nom est supprimée

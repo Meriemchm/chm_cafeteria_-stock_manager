@@ -1,0 +1,3 @@
+//MO016-017.TXT ANA00016 TO ANA00017
+Produits	Portion	NNR	NbrPiece	ATTENTION : la rubrique NbrPiece a pour nouveau nom Portion
+Produits_Article	Portion	NNR	Quantite	ATTENTION : la rubrique Quantite a pour nouveau nom Portion

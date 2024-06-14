@@ -1,0 +1,3 @@
+//MO007-008.TXT ANA00007 TO ANA00008
+Employe		TAR	229	nouvelle taille enregistrement : 229
+Employe	Type	RUB-		la rubrique Type est supprimée

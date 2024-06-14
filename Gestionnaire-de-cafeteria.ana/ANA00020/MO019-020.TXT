@@ -1,0 +1,3 @@
+//MO019-020.TXT ANA00019 TO ANA00020
+En_Cours		TAR	39	nouvelle taille enregistrement : 39
+En_Cours	PrixCurrent	RUB+		PrixCurrent est une nouvelle rubrique
