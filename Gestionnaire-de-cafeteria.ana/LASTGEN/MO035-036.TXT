@@ -1,0 +1,5 @@
+//MO035-036.TXT ANA00035 TO ANA00036
+Produits		TAR	214	nouvelle taille enregistrement : 214
+Produits	Portion	CNW	Monétaire$Chaîne	la rubrique Portion a pour nouveau type Monétaire
+Produits_Article		TAR	35	nouvelle taille enregistrement : 35
+Produits_Article	Portion	CNW	Monétaire$Chaîne	la rubrique Portion a pour nouveau type Monétaire

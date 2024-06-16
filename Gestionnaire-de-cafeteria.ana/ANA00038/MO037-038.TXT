@@ -1,0 +1,3 @@
+//MO037-038.TXT ANA00037 TO ANA00038
+Produits		TAR	212	nouvelle taille enregistrement : 212
+Produits	PortionCurrent	RUB+		PortionCurrent est une nouvelle rubrique

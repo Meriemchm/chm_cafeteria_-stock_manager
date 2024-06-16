@@ -1,0 +1,5 @@
+//MO036-037.TXT ANA00036 TO ANA00037
+Produits		TAR	208	nouvelle taille enregistrement : 208
+Produits	Portion	CNW	Réel sur 4 octets$Monétaire	la rubrique Portion a pour nouveau type Réel sur 4 octets
+Produits_Article		TAR	29	nouvelle taille enregistrement : 29
+Produits_Article	Portion	CNW	Réel sur 4 octets$Monétaire	la rubrique Portion a pour nouveau type Réel sur 4 octets
