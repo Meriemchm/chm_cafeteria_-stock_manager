@@ -50,8 +50,6 @@ ETAT_Utilisateur.wde
 ETAT_Liste_Factures.wde
 ETAT_Liste_Details_Factures.wde
 FEN_Fiche_Table.wdw
-GABARITS\WD\250 PHOENIX\PHOENIX_BTN_STD.PNG
-GABARITS\WD\250 PHOENIX\PHOENIX_PICT_VISIONPLUS_16_5.PNG
 FEN_Table.wdw
 ICONTABLE2.PNG
 ETAT_Liste_Table.wde
@@ -103,9 +101,8 @@ REQ_SelectNomArticle.WDR
 FEN_Fiche_Produits_Article.wdw
 FEN_TopTable.wdw
 REQ_SelectTopTable.WDR
-REQ_CountHeureDePointe.WDR
+REQ_DeleteProduitArticle.WDR
 FEN_TopArticle.wdw
-REQ_TopArticle.WDR
 REQ_SelectPortionAvec_IdArtcle.WDR
 REQ_SelectProduitAvec_Portion.WDR
 FEN_Fiche_Article1.wdw
@@ -124,12 +121,26 @@ REQ_AjoutTypeUtilisateur.WDR
 ETAT_ticketencore.wde
 ETAT_tickettable.wde
 REQ_SelectArticleIngredient.WDR
-REQ_SelectPeremptionProduit.WDR
+REQ_SelectHeureDePointe2.WDR
 FEN_Premption_Proche.wdw
 ETAT_Facture.wde
 REQ_AjoutTypeTable.WDR
 REQ_AjoutTypeEmploye.WDR
+FEN_Fiche_Type_Produits.wdw
+ETAT_Liste_Article.wde
+PHOENIX_LOGO.PNG
+ETAT_Liste_Type_Produits.wde
+ETAT_Liste_Stock_Total.wde
+REQ_SelectDetailFacture.WDR
+REQ_AjoutUtilisateur.WDR
+REQ_AjoutIngredient.WDR
+REQ_SelectVraiFactureDetail.WDR
+FEN_Table_REQ_SelectVraiFactureDetail.wdw
+FACTURE.PNG
+ETAT_DetailFacture.wde
 Gestionnaire-de-cafeteria.wdy
+GABARITS\WD\250 PHOENIX\PHOENIX_BTN_STD.PNG
+PHOENIX_BTN_STD.PNG
 Gabarits\WD\250 Phoenix\Phoenix.wdy
 Gabarits\WD\250 Phoenix\PHOENIX_BG_SHEET.PNG
 Gabarits\WD\250 Phoenix\PHOENIX_BREAK.PNG
@@ -190,6 +201,7 @@ Gabarits\WD\250 Phoenix\PHOENIX_PICT_SYST_UMC_5.PNG
 Gabarits\WD\250 Phoenix\PHOENIX_PICT_TAB_ADD_16_5.PNG
 Gabarits\WD\250 Phoenix\PHOENIX_PICT_TAB_CLOSE_16_5.PNG
 Gabarits\WD\250 Phoenix\PHOENIX_PICT_TRAD_16_5.PNG
+Gabarits\WD\250 Phoenix\PHOENIX_PICT_VISIONPLUS_16_5.PNG
 Gabarits\WD\250 Phoenix\PHOENIX_PROGBAR_ACTIV.PNG
 Gabarits\WD\250 Phoenix\PHOENIX_PROGBAR_BG.PNG
 Gabarits\WD\250 Phoenix\PHOENIX_PROGBAR_C_BCKGRD.PNG

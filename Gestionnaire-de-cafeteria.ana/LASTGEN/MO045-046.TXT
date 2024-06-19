@@ -1,0 +1,5 @@
+//MO045-046.TXT ANA00045 TO ANA00046
+Type_Produits		TAR	69	nouvelle taille enregistrement : 69
+Type_Produits	TypeProduits	RUB+		TypeProduits est une nouvelle rubrique
+Type_Produits	Propriete	RUB+		Propriete est une nouvelle rubrique
+Stock_Total		NFI		nouveau fichier

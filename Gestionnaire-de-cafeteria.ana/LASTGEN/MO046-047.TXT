@@ -1,0 +1,8 @@
+//MO046-047.TXT ANA00046 TO ANA00047
+Produits		TAR	219	nouvelle taille enregistrement : 219
+Produits	IDType_Produits	RUB+		IDType_Produits est une nouvelle clé
+Type_Produits		TAR	77	nouvelle taille enregistrement : 77
+Type_Produits	IDProduits	RUB+		IDProduits est une nouvelle clé
+Stock_Total		TAR	21	nouvelle taille enregistrement : 21
+Stock_Total	TotalStock	RUB+		TotalStock est une nouvelle rubrique
+Contrainte_Type_Produits_Produits		NWL	Type_Produits (IDType_Produits) et Produits (IDType_Produits)	Nouvelle liaison entre les fichiers Type_Produits (IDType_Produits) et Produits (IDType_Produits)

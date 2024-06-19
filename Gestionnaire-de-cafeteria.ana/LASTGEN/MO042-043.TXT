@@ -1,0 +1,2 @@
+//MO042-043.TXT ANA00042 TO ANA00043
+Produits	Mesure	NNR	Format	ATTENTION : la rubrique Format a pour nouveau nom Mesure

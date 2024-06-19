@@ -1,0 +1,7 @@
+//MO049-050.TXT ANA00049 TO ANA00050
+Produits		TAR	211	nouvelle taille enregistrement : 211
+Produits	IDType_Produits	RUB-		la rubrique IDType_Produits est supprimée
+Produits	Proprietaire	RUB-		la rubrique Proprietaire est supprimée
+Type_Produits		FIC-	Type_Produits	Fichier supprimé Type_Produits
+Stock_Total		FIC-	Stock_Total	Fichier supprimé Stock_Total
+Contrainte_Type_Produits_Produits		DEL	Type_Produits (IDType_Produits) et Produits (IDType_Produits)	Liaison supprimée entre les fichiers Type_Produits (IDType_Produits) et Produits (IDType_Produits)

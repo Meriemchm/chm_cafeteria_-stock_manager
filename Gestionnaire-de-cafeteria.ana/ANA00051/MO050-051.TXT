@@ -1,0 +1,8 @@
+//MO050-051.TXT ANA00050 TO ANA00051
+Produits		TAR	219	nouvelle taille enregistrement : 219
+Produits	IDType_Produits	RUB+		IDType_Produits est une nouvelle clé
+Produits_Article		TAR	37	nouvelle taille enregistrement : 37
+Produits_Article	IDType_Produits	RUB+		IDType_Produits est une nouvelle clé
+Type_Produits		NFI		nouveau fichier
+Contrainte_Type_Produits_Produits		NWL	Type_Produits (IDType_Produits) et Produits (IDType_Produits)	Nouvelle liaison entre les fichiers Type_Produits (IDType_Produits) et Produits (IDType_Produits)
+Contrainte_Type_Produits_Produits_Article		NWL	Type_Produits (IDType_Produits) et Produits_Article (IDType_Produits)	Nouvelle liaison entre les fichiers Type_Produits (IDType_Produits) et Produits_Article (IDType_Produits)
