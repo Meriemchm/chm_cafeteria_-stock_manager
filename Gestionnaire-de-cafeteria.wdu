@@ -47,8 +47,6 @@ EMPLOYE2.PNG
 GABARITS\WD\250 PHOENIX\PHOENIX_EDT.PNG
 POUBELLE.PNG
 ETAT_Utilisateur.wde
-ETAT_Liste_Factures.wde
-ETAT_Liste_Details_Factures.wde
 FEN_Fiche_Table.wdw
 FEN_Table.wdw
 ICONTABLE2.PNG
@@ -126,11 +124,7 @@ FEN_Premption_Proche.wdw
 ETAT_Facture.wde
 REQ_AjoutTypeTable.WDR
 REQ_AjoutTypeEmploye.WDR
-FEN_Fiche_Type_Produits.wdw
-ETAT_Liste_Article.wde
-PHOENIX_LOGO.PNG
-ETAT_Liste_Type_Produits.wde
-ETAT_Liste_Stock_Total.wde
+REQ_ProduitArtcileExisteDeja.WDR
 REQ_SelectDetailFacture.WDR
 REQ_AjoutUtilisateur.WDR
 REQ_AjoutIngredient.WDR
