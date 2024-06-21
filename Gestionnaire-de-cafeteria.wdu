@@ -1,5 +1,4 @@
 Gestionnaire-de-cafeteria.wdp
-Gestionnaire-de-cafeteria.eu.emf
 Gestionnaire-de-cafeteria.wdd
 FEN_f1.wdw
 CAFE.ICO
@@ -33,7 +32,6 @@ MENU2.PNG
 POUBELLE.PNG
 FEN_Stock.wdw
 FEN_Fiche_Produits.wdw
-GABARITS\WD\250 PHOENIX\PHOENIX_PICT_CORRECT_16_5.PNG
 GABARITS\WD\250 PHOENIX\PHOENIX_PICT_SYST_CLOSE_5.PNG
 ETAT_Liste_Employe.wde
 FEN_Fiche_Employe.wdw
@@ -45,7 +43,6 @@ ICONCLIENT2.PNG
 FEN_Employe.wdw
 EMPLOYE2.PNG
 GABARITS\WD\250 PHOENIX\PHOENIX_EDT.PNG
-POUBELLE.PNG
 ETAT_Utilisateur.wde
 FEN_Fiche_Table.wdw
 FEN_Table.wdw
@@ -69,12 +66,13 @@ REQ_SelectProducts.WDR
 REQ_SelectArticle.WDR
 FEN_TableSelect.wdw
 GABARITS\WD\250 PHOENIX\PHOENIX_BREAK_PICT.PNG
+GABARITS\WD\250 PHOENIX\PHOENIX_PICT_CORRECT_16_5.PNG
 FEN_CaissierFirst.wdw
 FLS01043B.PNG
 FLS01043E.PNG
 GABARITS\WD\250 PHOENIX\PHOENIX_BTN_APP_MAIN.PNG
+GABARITS\WD\250 PHOENIX\PHOENIX_BTN_MEDIA_CENTER.PNG
 ICONADDCLIENT.PNG
-ICONTABLECAISSIEER.PNG
 IMPRIMER.PNG
 PLUS.PNG
 REQ_ModifCurrentPortionProduit.WDR
@@ -93,11 +91,11 @@ REQ_SelectTableavecIdTable.WDR
 REQ_AjoutFacture.WDR
 REQ_AjoutDetailFacture.WDR
 FEN_Statistique.wdw
-GABARITS\WD\250 PHOENIX\PHOENIX_BTN_MEDIA_CENTER.PNG
 STATISTIQUE2.PNG
 REQ_SelectNomArticle.WDR
 FEN_Fiche_Produits_Article.wdw
 FEN_TopTable.wdw
+ICONTABLECAISSIEER.PNG
 REQ_SelectTopTable.WDR
 REQ_DeleteProduitArticle.WDR
 FEN_TopArticle.wdw
@@ -132,6 +130,7 @@ REQ_SelectVraiFactureDetail.WDR
 FEN_Table_REQ_SelectVraiFactureDetail.wdw
 FACTURE.PNG
 ETAT_DetailFacture.wde
+FEN_Fiche_Utilisateur1.wdw
 Gestionnaire-de-cafeteria.wdy
 GABARITS\WD\250 PHOENIX\PHOENIX_BTN_STD.PNG
 PHOENIX_BTN_STD.PNG
